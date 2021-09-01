@@ -1,13 +1,14 @@
 
 class Chat:
 
-    START_TEXT = """This is a Telegram Bot to Mux subtitle into a video
+    START_TEXT = """Hey,
+<b>This is a Telegram Bot to Mux subtitle into a video</b>
 
 <b>Send me a Telegram file to begin</b>
 
-/help for more details..
+<b>/help for more details...</b>
 
-Credits :- @mohdsabahat
+Credits :- @SultanMehmed_TG
     """
 
     HELP_USER = "??"
@@ -23,9 +24,9 @@ To give custom name to file send it with url seperated with |
 
 <b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
 
-<a href="https://github.com/mohdsabahat/sub-muxer">Repo URL</a>"""
 
-    NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner!"
+
+    NO_AUTH_USER = "You are not authorised to use this bot.\nContact @SultanMehmed_TG through @SultanMehmed_bot!"
     DOWNLOAD_SUCCESS = """File downloaded successfully!
 
 Time taken : {} seconds."""
