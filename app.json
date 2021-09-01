@@ -6,7 +6,7 @@
 		"subtitles",
 		"muxing"
 	],
-	"repository": "https://github.com/mohdsabahat/sub-muxer",
+	"repository": "https://github.com/AghinKhalidCP/Subtitle-Muxer",
 	"formation": {
 		"worker": {
 			"quantity": 1,
